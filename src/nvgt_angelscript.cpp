@@ -56,6 +56,7 @@
 #include "pack.h"
 #include "pathfinder.h"
 #include "pocostuff.h"
+#include "process.h"
 #include "random.h"
 #include "reactphysics.h"
 #include "scriptstuff.h"
